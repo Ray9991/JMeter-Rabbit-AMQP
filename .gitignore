@@ -13,3 +13,6 @@ lib/
 /ivy/
 *.iml
 .idea
+
+target/
+/bin/
